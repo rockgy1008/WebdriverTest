@@ -17,7 +17,7 @@ public class SecondTest {
   @Test
   public void main() {
 	  
- //try commit
+ //try commit 2
       driver.findElement(By.id("user_email")).sendKeys("yan.gao@darkmatter.ae");
  
       // Find the element that's ID attribute is 'pwd' (Password)
