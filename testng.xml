@@ -5,6 +5,8 @@
     <classes>
   
       <class name="RestExample.RestAPITest"/>
+      <class name="Example.NewTest"/>
+      
 
     </classes>
   </test> <!-- Test -->
